@@ -1,7 +1,7 @@
 # fast
 Field Assessment of Silica Tool
 
-Here you can download additional supplemental files for the NIOSH Mining FAST software. The files include a silica concentration correction factor spreadsheet [FAST - Mine specific adjustment tool.xlsx](https://github.com/niosh-mining/fast/blob/master/FAST%20-%20Mine%20specific%20adjustment%20tool.xlsx) and a remote (server) database creation script [create_silica_database.sql](https://github.com/niosh-mining/fast/blob/master/create_silica_database.sql).
+Here you can download additional supplemental files for the NIOSH Mining FAST software. The files include a silica concentration correction factor spreadsheet [FAST - Mine specific adjustment tool.xlsx](https://github.com/niosh-mining/fast/raw/master/FAST%20-%20Mine%20specific%20adjustment%20tool.xlsx) and a remote (server) database creation script [create_silica_database.sql](https://github.com/niosh-mining/fast/blob/master/create_silica_database.sql).
 
 ## Terms of Use
 
