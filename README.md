@@ -3,6 +3,8 @@ Field Assessment of Silica Tool
 
 Here you can download additional supplemental files for the NIOSH Mining FAST software. The files include a silica concentration correction factor spreadsheet [FAST - Mine specific adjustment tool.xlsx](https://github.com/niosh-mining/fast/raw/master/FAST%20-%20Mine%20specific%20adjustment%20tool.xlsx) and a remote (server) database creation script <a href="https://github.com/niosh-mining/fast/raw/master/create_silica_database.sql" download="create_silica_database.sql">create_silica_database.sql</a>.
 
+The [Quality Assurance (QA) sample tracking.xlsx] (https://github.com/niosh-mining/fast/blob/master/Quality%20Assurance%20(QA)%20sample%20tracking.xlsx?raw=true) spreadsheet is an optional tool to track quality assurance (QA) sample data. It is designed to provide quick, visual information about the consistency of QA samples over time.
+
 ## Terms of Use
 
 NIOSH github projects follow the [CDC privacy policy](https://www.cdc.gov/Other/privacy.html) and [other policies](https://www.cdc.gov/Other/policies.html) where applicable.
