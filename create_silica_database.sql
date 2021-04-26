@@ -1,3 +1,10 @@
+use master
+GO
+CREATE DATABASE SILICA
+GO
+USE SILICA
+GO
+
 DECLARE @CurrentMigration [nvarchar](max)
 
 IF object_id('[dbo].[__MigrationHistory]') IS NOT NULL
